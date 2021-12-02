@@ -23,7 +23,7 @@
 +---Exp-7
 |       1. Chebyshev low pass filter in microstrip with a cut off frequency of 4GHz.m
 |       
-\---Exp8
+\---Exp-8
         1. Layout and frequency response of a Microstrip HPF with a cut-off frequency of 2 GHz.m
         
 ```
